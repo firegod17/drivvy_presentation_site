@@ -5825,11 +5825,12 @@ section.breadcrumbs-custom+section {
 .footer-classic-aside {
 	padding: 20px 0;
 	text-align: center;
-	border-top: 1px solid #ebebeb;
+	border-top: 2px solid #ff0000;
+	background-color: #5d5d5d
 }
 
 .footer-classic-aside .rights {
-	color: #8491a5;
+	color: #fff;
 }
 
 .footer-classic .footer-classic-title+* {
