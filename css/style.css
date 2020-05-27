@@ -52,6 +52,11 @@ button::-moz-focus-inner {
 	outline: none;
 }
 
+#footer-test{
+    position: fixed;
+    bottom: 0;
+		width: 100vw;
+}
 blockquote {
 	padding: 0;
 	margin: 0;
